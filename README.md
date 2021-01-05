@@ -1,3 +1,3 @@
 # EclipseGitGithub
-Bonjour de GitHub
+Bonjour de GitHub. 
 Fetch n°1
