@@ -3,15 +3,8 @@ package epsi.EclispeGitGithub;
 public class App {
 	
     public static void main(String[] args){
-    	new App().start();
+    	System.out.println("Bonjour EPSI 1");
+    
     }
-    
-    public App() {
-    	
-	}
-    
-    public void start() {
-
-	}
     
 }
